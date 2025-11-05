@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sport-spiegels.nl/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sport-spiegels.nl/de/collections/kunstspiegels.atom"/>
+  <title>Sportspiegels</title>
+  <updated>2025-04-07T13:16:02+02:00</updated>
+  <author>
+    <name>Sportspiegels</name>
+  </author>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10558652645707</id>
+    <published>2025-04-07T13:16:02+02:00</published>
+    <updated>2025-04-07T13:16:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/volleybal"/>
+    <title>Volleyballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Volleybal.png?v=1744024385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Für jeden Volleyball-Fanatiker“ 🖤<meta charset="utf-8"> 🤍<meta charset="utf-8"> 🩶</span><br><br> <span>Dieser runde Volleyballspiegel mit 35 cm Durchmesser ist jetzt erhältlich!</span><br><br> <span>Volleyball-Liebe ist echt! Fischer<meta charset="utf-8"> 🏐</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Aarde</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>basketbal</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Volleybal</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10558652645707</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10555696382283</id>
+    <published>2025-04-07T13:11:44+02:00</published>
+    <updated>2025-04-07T13:11:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/basketbal"/>
+    <title>Basketballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Basketbal.png?v=1744024066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Für jeden Basketball-Fan“ 🖤<meta charset="utf-8"> 🧡</span><br><br> <span>Dieser runde Basketballspiegel mit 35 cm Durchmesser ist jetzt erhältlich!</span><br><br> <span>Basketball-Liebe ist echt! Fischer 🏀</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Aarde</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>basketbal</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10555696382283</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435612442955</id>
+    <published>2025-02-03T14:03:15+01:00</published>
+    <updated>2025-02-03T14:03:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/aarde-kunstspiegel-onze-blauwe-parel"/>
+    <title>Earth Art Spiegel - Unsere blaue Perle</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Kunstspiegel-Aarde-1.png?v=1738587536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span>„Die Natur ist nicht nur unsere Umwelt, sie ist unser Zuhause“<meta charset="utf-8"> 💙<meta charset="utf-8"> 🤍</span><br><br> <span>Dieser 30 x 40 cm große Spiegel ist jetzt erhältlich!</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Aarde</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435612442955</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435502637387</id>
+    <published>2025-02-03T13:05:52+01:00</published>
+    <updated>2025-02-03T13:05:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/de-graafschap-veur-altied-voebalsjaalspiegel-copy-copy"/>
+    <title>Pluto Art Kreisspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Plutosportspiegel400x300-3.png?v=1738583785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Sei wie Pluto“<br><br></span> Es sind die kleinen Dinge, die im Leben zählen, wie unser Lieblingszwergplanet!<br><span> <meta charset="utf-8">Ab sofort ist dieser 35cm im Durchmesser<img alt=""><img alt=""> Kunstspiegelkreis erhältlich!<br></span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Pluto</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435502637387</id>
+      <title>Spiegel 6mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435495264587</id>
+    <published>2025-02-03T12:54:47+01:00</published>
+    <updated>2025-02-03T12:54:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/maan-kunstcirkel"/>
+    <title>Mond-Kunstkreis</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Maankunstcirkel350mmdiameter-1.png?v=1738583170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span>„Das ist ein kleiner Schritt für einen Menschen, aber ein riesiger Sprung für die Menschheit.“<meta charset="utf-8"> 🌕</span><br><br> <span>Von nun an ist dies<meta charset="utf-8"> 35 cm Durchmesser<img alt=""><img alt=""> Kunstspiegelkreis erhältlich!<meta charset="utf-8"> 🌚</span><br><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#KosmischeDecor</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Maan</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>moon</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435495264587</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293478719819</id>
+    <published>2024-10-31T15:48:10+01:00</published>
+    <updated>2024-10-31T15:48:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/gunbarrel-reflectie-spiegel-stap-in-de-wereld-van-james-bond"/>
+    <title>Gunbarrel Reflection Mirror – Treten Sie ein in die Welt von James Bond</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/007-gunbarrel-2.png?v=1730297815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> Erleben Sie den Nervenkitzel der Spionagewelt mit unserem 30 cm x 40 cm großen 007 Gunbarrel-Perspektivspiegel. 🔫 Dieses markante Design erweckt die legendäre Gunbarrel-Szene aus James Bond zum Leben, mit einem Spiegelbild, das Ihnen das Gefühl gibt, Teil der Action zu sein. 🎥 Der Spiegel verleiht jedem Raum einen Hauch von Abenteuer und Geheimnis und eignet sich perfekt für das Wohnzimmer, das Heimkino oder das Büro. 🏡 Mit seinem einzigartigen Look bringt dieser Spiegel den Charme von Spionagefilmen direkt zu Ihnen nach Hause.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#KosmischeDecor</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Abstracte kunst</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Avontuur</s:tag>
+    <s:tag>Filmfans</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Gunbarrel</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>IconischOntwerp</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>JamesBond</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Spionage</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293478719819</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293447197003</id>
+    <published>2024-10-31T15:34:46+01:00</published>
+    <updated>2024-10-31T15:34:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/zwart-gat-spiegel-reflectie-van-een-kleurrijk-universum"/>
+    <title>Schwarzes Loch Spiegel - Reflexion eines bunten Universums</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Blackhole-2.png?v=1730297823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Entdecken Sie die Wunder des Universums mit unserem farbenfrohen Schwarzlochspiegel. 🌌<br> Dieses einzigartige Design zeigt ein versilbertes Spiegelbild eines schwarzen Lochs, umgeben von einem farbenfrohen Weltraumhintergrund mit Sternen und Nebeln. 🌠 Der Spiegel verleiht jedem Raum einen Hauch von Geheimnis und Fantasie und eignet sich perfekt für das Wohnzimmer, Schlafzimmer oder Büro. 🏡 Mit seiner faszinierenden Erscheinung bringt dieser Spiegel die Magie des Weltraums direkt in Ihr Interieur.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#KosmischeDecor</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Abstracte kunst</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Galaxie</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>KleurrijkeInterieur</s:tag>
+    <s:tag>Kosmos</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Ruimte</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Sterren</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:tag>ZwartGat</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293447197003</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293259600203</id>
+    <published>2024-10-31T15:25:23+01:00</published>
+    <updated>2024-10-31T15:25:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/winter-spiegel-een-koele-reflectie-van-het-seizoen"/>
+    <title>Winterspiegel – Ein cooler Rückblick auf die Jahreszeit</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Kerst_kunstspiegel-3.png?v=1730297821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Holen Sie sich die ruhige Schönheit des Winters in Ihr Zuhause mit unserem runden Winterspiegel mit 35 cm Durchmesser. ❄️ Dieses elegante Design spiegelt die kühlen Farbtöne und glitzernden Schneelandschaften der Jahreszeit wider. 🌨️ Der Spiegel verleiht jedem Raum eine ruhige Atmosphäre und eignet sich perfekt für Wohnzimmer, Schlafzimmer oder Flur. 🏡 Mit seinem winterlichen Aussehen bringt dieser Spiegel die Magie des Winters direkt in Ihr Interieur.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>KoudeTinten</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>RustigeSfeer</s:tag>
+    <s:tag>Sneeuw</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>winter</s:tag>
+    <s:tag>Winterdecoratie</s:tag>
+    <s:tag>Winterschoonheid</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293259600203</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10291110019403</id>
+    <published>2024-10-31T15:18:35+01:00</published>
+    <updated>2024-10-31T15:18:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/lente-spiegel-een-vrolijke-reflectie-van-het-seizoen"/>
+    <title>Frühlingsspiegel – Eine freudige Reflexion der Jahreszeit</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Lente_kunstspiegel-2.png?v=1730297818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Holen Sie sich die frische Energie des Frühlings in Ihr Zuhause mit unserem 30 cm x 40 cm großen Frühlingsspiegel. 🌸<br> Dieses wunderschöne Design spiegelt die leuchtenden Farben und blühenden Blumen der Saison wider. 🌼 Der Spiegel verleiht jedem Raum eine funkelnde Atmosphäre und eignet sich perfekt für das Wohnzimmer, Schlafzimmer oder den Flur. 🏡<br> Mit seiner fröhlichen Ausstrahlung bringt dieser Spiegel die Schönheit des Frühlings direkt in Ihr Interieur.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>bloemen</s:tag>
+    <s:tag>FrisseKleuren</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Lente</s:tag>
+    <s:tag>Lentedecoratie</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Voorjaar</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10291110019403</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293433631051</id>
+    <published>2024-10-31T15:06:57+01:00</published>
+    <updated>2024-10-31T15:06:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/herfst-spiegel-een-warmhartige-reflectie-van-het-seizoen"/>
+    <title>Herbstspiegel - Eine warmherzige Reflexion der Jahreszeit</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Herfst_kunstspiegel-2.png?v=1730297823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Entdecken Sie den Charme des Herbstes mit unserem Herbstspiegel.<meta charset="utf-8"> 🍂 Dieses wunderschöne Design spiegelt die warmen Farben und Texturen der Saison mit Bildern von fallenden Blättern und herbstlichen Elementen wider. 🍁 Der Spiegel verleiht jedem Raum eine einladende Atmosphäre und eignet sich perfekt für Wohnzimmer, Schlafzimmer oder Flur. Mit seiner stimmungsvollen Optik bringt dieser Spiegel die Schönheit des Herbstes direkt in Ihr Interieur.<meta charset="utf-8"> 🏡<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Herfst</s:tag>
+    <s:tag>Herfstdecoratie</s:tag>
+    <s:tag>Herfststijl</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>VallendeBladeren</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>WarmeKleuren</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293433631051</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293373141323</id>
+    <published>2024-10-31T14:57:09+01:00</published>
+    <updated>2024-10-31T14:57:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/moderne-decoratie-geometrische-spiegel"/>
+    <title>Moderner Dekorationsspiegel mit geometrischem Muster</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Striped-shapes-3.png?v=1730297823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Verleihen Sie Ihrem Interieur mit unserem modernen geometrischen Kreisspiegel mit 35 cm Durchmesser ein besonderes Flair. Das Design mit klaren Linien und geometrischen Formen erzeugt einen beeindruckenden visuellen Effekt. Der Spiegel aus hochwertigem Glas bietet eine klare Reflexion und eignet sich für Wohnzimmer, Schlafzimmer oder Flure. Setzen Sie mit diesem einzigartigen Spiegel ein stilvolles Statement in Ihrem Raum.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#KosmischeDecor</s:tag>
+    <s:tag>Abstracte kunst</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>modern</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293373141323</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293342437707</id>
+    <published>2024-10-31T14:26:02+01:00</published>
+    <updated>2024-10-31T14:26:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/kersenbloesem-boom-spiegel-bloeiende-schoonheidpy"/>
+    <title>Kirschblütenbaumspiegel - Blühende Schönheit </title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Pink_peach_tree_leaves-2.png?v=1730297825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"> <meta charset="utf-8"><a data-encoded-attr-charset="dXRmLTg=" data-encoded-tag-value="" data-encoded-tag-name="meta"></a> <a data-encoded-attr-charset="dXRmLTg=" data-encoded-tag-value="" data-encoded-tag-name="meta"><span>🌸</span> Dieser Spiegel ist perfekt für das Wohnzimmer, Schlafzimmer oder Meditationszimmer. Er ist sowohl funktional als auch ein wunderschönes Kunstwerk, das jeden Raum aufwertet.</a><a data-encoded-attr-charset="dXRmLTg=" data-encoded-tag-value="" data-encoded-tag-name="meta"></a> <a data-encoded-attr-charset="dXRmLTg=" data-encoded-tag-value="" data-encoded-tag-name="meta"><span>💮</span><br></a><br><br><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Elegantie</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>Kersenbloesem</s:tag>
+    <s:tag>Meditatie</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>natuur</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Sereniteit</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293342437707</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10197922644299</id>
+    <published>2024-10-31T14:10:26+01:00</published>
+    <updated>2024-10-31T14:10:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/mantra-spiegels-symmetrie-vrede-kunst"/>
+    <title>Mantra-Spiegel – Symmetrie, Frieden und Kunst</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Mantra-rood-paars-kunstspiegel-3.png?v=1730297811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Dieser runde Spiegel mit 35 cm Durchmesser ist mit einem faszinierenden Mantra-Design verziert, das Ruhe und positive Energie ausstrahlt. Das hochwertige Glas sorgt nicht nur für eine klare Reflexion, sondern verleiht jedem Raum auch ein künstlerisches Element.<br> Perfekt für Yogastudios, Meditationsecken oder als Statement-Stück in Ihrem Interieur.<br> Lassen Sie sich jeden Tag von der Schönheit und Ruhe dieses Spiegels inspirieren.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Abstracte kunst</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mantra</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Yoga</s:tag>
+    <s:tag>Yogastudio</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10197922644299</id>
+      <title>Spiegel 4mm Rot nach Gelb</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10197922644299</id>
+      <title>Spiegel 4mm Silber &amp;amp; Reflexion</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10197922644299</id>
+      <title>Spiegel 4mm Blau bis Lila</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293237023051</id>
+    <published>2024-10-31T13:29:12+01:00</published>
+    <updated>2024-10-31T13:29:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/moody-shapes-spiegel-een-hippe-groove"/>
+    <title>Moody Shapes Mirror - Ein hipper Groove</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Moody-shapes-stars-3.png?v=1730297813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8">Dieser einzigartige runde Spiegel mit 35 cm Durchmesser vereint Funktion und Flair.<meta charset="utf-8"> <span>💜<meta charset="utf-8"> ✨<br></span> Die wellenförmigen Lila- und Gelbtöne rund um den Spiegel erzeugen einen verspielten und künstlerischen Effekt, ideal für alle, die jedem Raum Farbe und Persönlichkeit verleihen möchten.<br> Ein echter Hingucker für jedes Interieur!<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>KleurrijkeSpiegel</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>PaarsGeel</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>UniekeStijl</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293237023051</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293211726155</id>
+    <published>2024-10-31T13:06:26+01:00</published>
+    <updated>2024-10-31T13:06:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/bloemen-spiegel-een-vleugje-natuur-aan-de-muur"/>
+    <title>Blumenspiegel – Ein Hauch von Natur an der Wand</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Flower-circle_kunstspiegel-2.png?v=1730297804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Bringen Sie mit diesem wunderschönen Blumenspiegel mit 35 cm Durchmesser frische Eleganz in Ihr Zuhause!<meta charset="utf-8"> 🌸 Die florale Form und die raffinierten Details machen diesen Spiegel zu einem anmutigen und einzigartigen Dekorationsstück, das jeden Raum erhellt.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>bloemen</s:tag>
+    <s:tag>BloemSpiegel</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Interieur</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293211726155</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293199667531</id>
+    <published>2024-10-31T13:00:35+01:00</published>
+    <updated>2024-10-31T13:00:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/ying-yang-spiegel-balans-en-reflectie-in-een"/>
+    <title>Ying Yang Spiegel – Balance und Reflexion in einem</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/yin_yang-kunustspiegel-3.png?v=1730297807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> Dieser einzigartige Yin-Yang-Spiegel mit 35 cm Durchmesser vereint Harmonie und Stil!<meta charset="utf-8"> 🌑🌕<br> Der normalerweise weiße Teil ist eine silberne Spiegelfläche, auf der Sie sich selbst sehen können, während der dunkle Teil einen subtilen schwarzen Kontrast hinzufügt.<br> Perfekt für alle, die ihrem Interieur Ausgeglichenheit und Ruhe verleihen möchten.<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Balans</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>YinYangSpiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293199667531</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10292837384523</id>
+    <published>2024-10-31T12:52:01+01:00</published>
+    <updated>2024-10-31T12:52:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/maan-spiegel-zie-jezelf-in-het-mysterie-van-de-maan"/>
+    <title>Mondspiegel – Sehen Sie sich selbst im Mond!</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Maan_Kunstspiegel-3.png?v=1730297823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>🌕</strong> Mit diesem einzigartigen 30 x 40 cm großen Mondspiegel werden Sie Teil der geheimnisvollen Mondlandschaft.  <meta charset="utf-8"><strong>🌌</strong> Der Spiegel zeigt ein detailliertes, künstlerisches Bild des Mondes und setzt Ihr Spiegelbild wunderschön in Szene. Perfekt für Astronomie- und Kunstliebhaber, verleiht dieser Spiegel jedem Raum ein magisches Element und lässt Sie den Mond auf eine neue Art erleben. 🌠</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Maanspiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>MaanDecor</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>RuimteKunst</s:tag>
+    <s:tag>Spiegel</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10292837384523</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10292774797643</id>
+    <published>2024-10-31T09:11:49+01:00</published>
+    <updated>2024-10-31T09:11:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/achterhoekse-flag-spiegel"/>
+    <title>Achterhoek Flagge Spiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Achterhoekseflag-1.png?v=1730297819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> Dieser 30 x 40 cm große Spiegel fängt die Kraft und den Charme der Region in einem stilvollen Design ein und ist perfekt geeignet, um Ihrem Interieur eine lokale Note zu verleihen.<br><meta charset="utf-8"><meta charset="utf-8"> Sehen Sie sich umgeben von den erkennbaren grünen Flaggenfarben mit Silber und holen Sie sich ein Stück Achterhoek nach Hause!<br><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Achterhoek</s:tag>
+    <s:tag>#AchterhoekseVlag</s:tag>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>#TrotsOpDeRegio</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10292774797643</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10291325239627</id>
+    <published>2024-10-30T17:00:05+01:00</published>
+    <updated>2024-10-30T17:00:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/astronaut-spiegel-zweef-in-de-ruimte"/>
+    <title>Astronautenspiegel – Schweben Sie im Weltraum!</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Spacedude-3.png?v=1730297807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8">Schau in diesen einzigartigen 30cm x 40cm großen Spiegel und erlebe dich selbst als Astronaut im unendlichen Weltall! 🌌 Sobald du hineinschaust, stellst du dir vor, du wärst zwischen den Sternen, umgeben von einem Sternenhimmel und fernen Planeten. 🚀 Der Spiegel lässt dich den Weltraum auf eine ganz neue Art erleben – perfekt für jeden Weltraumfan und Abenteurer! 🌠<br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#AstronautSpiegel</s:tag>
+    <s:tag>#KosmischeDecor</s:tag>
+    <s:tag>#RuimteFan</s:tag>
+    <s:tag>#RuimteReis</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10291325239627</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10291304825163</id>
+    <published>2024-10-30T16:53:27+01:00</published>
+    <updated>2024-10-30T16:53:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/wanted-poster-spiegel-zoek-jezelf-als-gezochte-bandiet"/>
+    <title>Steckbriefspiegel – Werden Sie zum gesuchten Banditen!</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Wanted_Poster-2.png?v=1730297826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Fühlen Sie sich wie ein echter Gesetzloser mit diesem einzigartigen „WANTED“-Spiegel. 🤠 Sobald Sie hineinschauen, sehen Sie sich als den gesuchten Banditen, genau wie auf den Plakaten aus dem Wilden Westen! 🏜️<br><br> Mit seinen verwitterten Details und seinem Vintage-Charme ist dieser Spiegel ein echter Hingucker und verleiht deinem Raum sofort einen coolen Look. Perfekt für alle, die einen Hauch von Abenteuer und Geheimnis lieben. 🌟🪞</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10291304825163</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10291179323723</id>
+    <published>2024-10-30T16:01:31+01:00</published>
+    <updated>2024-10-30T16:01:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/voetbalspiegel"/>
+    <title>Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Voetbal_kunstspiegel-1.png?v=1730297810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span>„Für jeden Fußballfan“<meta charset="utf-8"> 🖤🤍</span><br><br> <span>Von nun an ist dies<meta charset="utf-8"> Kreisfußball mit 35 cm Durchmesser<img alt=""><img alt=""> Spiegel vorhanden!</span><br><br> <span>Fußballliebe ist echt! Visser ⚽</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10291179323723</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

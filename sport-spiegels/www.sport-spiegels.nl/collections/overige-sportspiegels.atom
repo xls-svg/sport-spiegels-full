@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sport-spiegels.nl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sport-spiegels.nl/collections/overige-sportspiegels.atom"/>
+  <title>Sportspiegels</title>
+  <updated>2025-04-07T13:16:02+02:00</updated>
+  <author>
+    <name>Sportspiegels</name>
+  </author>
+  <entry>
+    <id>https://www.sport-spiegels.nl/products/10558652645707</id>
+    <published>2025-04-07T13:16:02+02:00</published>
+    <updated>2025-04-07T13:16:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/products/volleybal"/>
+    <title>Volleybalspiegel</title>
+    <s:type>Design Mirror</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Volleybal.png?v=1744024385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Voetbalspiegels.nl<br>
+        <strong>Type: </strong>Design Mirror<br>
+        <strong>Prijs: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>“Voor ieder volleybal fanaat” 🖤<meta charset="utf-8">🤍<meta charset="utf-8">🩶</span><br><br><span>Vanaf nu is deze 35cm in diameter cirkel volleybalspiegel verkrijgbaar!</span><br><br><span>Volleybal liefde is echt! Visser <meta charset="utf-8">🏐</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Aarde</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>basketbal</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Volleybal</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/products/10558652645707</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/products/10555696382283</id>
+    <published>2025-04-07T13:11:44+02:00</published>
+    <updated>2025-04-07T13:11:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/products/basketbal"/>
+    <title>Basketbalspiegel</title>
+    <s:type>Design Mirror</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Basketbal.png?v=1744024066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Voetbalspiegels.nl<br>
+        <strong>Type: </strong>Design Mirror<br>
+        <strong>Prijs: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>“Voor ieder basketbal fanaat” 🖤<meta charset="utf-8">🧡</span><br><br><span>Vanaf nu is deze 35cm in diameter cirkel basketbalspiegel verkrijgbaar!</span><br><br><span>Basketbal liefde is echt! Visser 🏀 </span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Aarde</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>basketbal</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>NatuurDecor</s:tag>
+    <s:tag>NatuurlijkeSchoonheid</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/products/10555696382283</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/products/10291179323723</id>
+    <published>2024-10-30T16:01:31+01:00</published>
+    <updated>2024-10-30T16:01:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/products/voetbalspiegel"/>
+    <title>Voetbalspiegel</title>
+    <s:type>Design Mirror</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Voetbal_kunstspiegel-1.png?v=1730297810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Voetbalspiegels.nl<br>
+        <strong>Type: </strong>Design Mirror<br>
+        <strong>Prijs: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>“Voor ieder voetbalfanaat” <meta charset="utf-8">🖤🤍</span><br><br><span>Vanaf nu is deze <meta charset="utf-8">35cm in diameter cirkel voetbal<img alt=""><img alt="">spiegel verkrijgbaar!</span><br><br><span>Voetbal liefde is echt! Visser ⚽</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/products/10291179323723</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

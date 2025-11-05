@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.sport-spiegels.nl/de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.sport-spiegels.nl/de/collections/voetbalspiegels.atom"/>
+  <title>Sportspiegels</title>
+  <updated>2025-06-13T08:59:54+02:00</updated>
+  <author>
+    <name>Sportspiegels</name>
+  </author>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10668118376779</id>
+    <published>2025-06-13T08:59:54+02:00</published>
+    <updated>2025-06-13T08:59:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/d-v-c-26-didam"/>
+    <title>DVC&apos;26 Didam Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/D.V.C._Didam_26_afbeelding_5.png?v=1749648095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Der schönste Club ist hier in Didam.“ ❤️<meta charset="utf-8"> <span>🖤</span></p>
+<p> Dieser 30 cm x 40 cm große Spiegel ist jetzt erhältlich. 20,00 €<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an DVC’26 Didam!</p>
+<p> Clubliebe ist echt! DVC'26 Didam X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Warnveldse boys</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10668118376779</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10668124307787</id>
+    <published>2025-06-13T08:59:32+02:00</published>
+    <updated>2025-06-13T08:59:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/viod-doetinchem-voetbalspiegel"/>
+    <title>Viod Doetinchem Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Viod_Doetinchem_afbeelding-1.png?v=1749729455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Der schönste Club ist hier in Viod“ ❤️<meta charset="utf-8"> <span>🖤</span></p>
+<p> Dieser 30 cm x 40 cm große Spiegel ist jetzt erhältlich. 20,00 €<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an VV Viod 1928!</p>
+<p> Clubliebe ist echt! Viod X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Warnveldse boys</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10668124307787</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10596412391755</id>
+    <published>2025-04-29T11:43:15+02:00</published>
+    <updated>2025-04-29T11:43:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/avw66-trots-op-avw-voetbalsjaal"/>
+    <title>AVW&apos;66 Fußballschal „Proud of AVW“.</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Voetbalsjaal_AVW66-1.png?v=1745919561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Stolz auf AVW“<meta charset="utf-8"> ❤️🤍<meta charset="utf-8"> 🖤</span><br><br> <span>Dieser 108cm x 15cm große Spiegel ist jetzt erhältlich,<meta charset="utf-8"> €20,-<meta charset="utf-8"> exkl. MwSt. des Erlöses geht an AVW’66!</span><br><br> <span>Clubliebe ist echt! AVW'66 X Visser 🤝</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>Kozakken Boys</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10596412391755</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">99.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10558662607179</id>
+    <published>2025-04-07T13:47:51+02:00</published>
+    <updated>2025-04-07T13:47:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/avw66-voetbalspiegel"/>
+    <title>AVW&apos;66 Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/DSC_1127.jpg?v=1755260619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Stolz auf AVW! Stolz auf Westervoort!“ ❤️<meta charset="utf-8"> <span>🖤</span></p>
+<p> Dieser 30 cm x 40 cm große Spiegel ist jetzt erhältlich. 20,00 €<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an AVW’66!</p>
+ <p>Clubliebe ist echt! AVW'66 X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Warnveldse boys</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10558662607179</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10293494317387</id>
+    <published>2025-03-06T13:42:39+01:00</published>
+    <updated>2025-03-06T13:42:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/kozakken-boys-werkendam-aan-de-macht-voetbalspiegel"/>
+    <title>Fußballspiegel „WERKENDAM IN POWER“ von Kozakken für Jungen</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoetbalspiegelKozakkenBoys-1.png?v=1730879857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Für Rot-Weiß“ ❤️🤍</p>
+<p> Dieser 30 x 40 cm große Spiegel ist jetzt erhältlich.<meta charset="utf-8"> €20,-<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an Kozakken Boys!</p>
+<p> Clubliebe ist echt! Kozakken Boys X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>Kozakken Boys</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10293494317387</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10307772121419</id>
+    <published>2025-03-06T13:42:20+01:00</published>
+    <updated>2025-03-06T13:42:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/de-graafschap-veur-altied-voebalsjaalspiegel"/>
+    <title>De Graafschap „VEUR ALTIED“ Fußballschalspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoebalsjaalGraafschap-1.png?v=1730809883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Für die Superfarmer“<meta charset="utf-8"> 💙<meta charset="utf-8"> 🤍</span><br><br> <span>Dieser 108cm x 15cm große Spiegel ist jetzt erhältlich,<meta charset="utf-8"> €20,-<meta charset="utf-8"> exkl. MwSt. des Erlöses geht an die Graafschap!</span><br><br> <span>Clubliebe ist echt! De Graafschap X Visser 🤝</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>graafschap</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10307772121419</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">99.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10307924590923</id>
+    <published>2025-03-06T13:41:52+01:00</published>
+    <updated>2025-03-06T13:41:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/sc-genemuiden-voetbalsjaalspiegel"/>
+    <title>SC Genemuiden Fußballschalspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoetbalsjaalSC-Genemuiden-1.png?v=1730809883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Für die Genemuiden-Fans“ 💚🖤</p>
+<p> Dieser 108cm x 15cm große Spiegel ist jetzt erhältlich,<meta charset="utf-8"> €20,-<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an den SC Genemuiden!</p>
+<p> Vereinsliebe ist echt! SC Genemuiden X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SC Genemuiden</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10307924590923</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">99.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435502506315</id>
+    <published>2025-03-06T13:41:24+01:00</published>
+    <updated>2025-03-06T13:41:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/kozakken-boys-trots-van-brabant-sinds-1932-voebalsjaalspiegel"/>
+    <title>Kozakken Boys &quot;Pride of Brabant | seit 1932&quot; Fußballschalspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoetbalsjaalKozakkenboys-4.png?v=1738584499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Für die Super Meuzikken“<meta charset="utf-8"> ❤️🤍</span><br><br> <span>Dieser 108cm x 15cm große Spiegel ist jetzt erhältlich,<meta charset="utf-8"> €20,-<meta charset="utf-8"> exkl. MwSt. des Erlöses gehen an die Kozakken Boys!</span><br><br> <span>Clubliebe ist echt! Kozakken Boys X Visser 🤝</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>Kozakken Boys</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435502506315</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">99.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435561685323</id>
+    <published>2025-03-06T13:40:54+01:00</published>
+    <updated>2025-03-06T13:40:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/warnveldse-boys-hart-van-de-boys-voetbalspiegel"/>
+    <title>Warnveldse Boys „Heart of the Boys“ Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoetbalspiegelWarnveldseBoys-3.png?v=1738586923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> „Wenn du schnell gehen willst, geh allein.<br> Wenn ihr weit kommen wollt, geht zusammen.“ ❤️🤍</p>
+<p> Dieser 30 x 40 cm große Spiegel ist jetzt erhältlich.<meta charset="utf-8"> €20,-<meta charset="utf-8"> <span>exkl. MwSt.</span> des Erlöses geht an Warnveldse Boys!</p>
+<p> Clubliebe ist echt!<meta charset="utf-8"> Warnveldse Boys X Visser 🤝</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Warnveldse boys</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435561685323</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10435581739339</id>
+    <published>2025-03-06T13:40:07+01:00</published>
+    <updated>2025-03-06T13:40:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/warnveldse-boys-hart-van-de-boys-voebalsjaalspiegel"/>
+    <title>Warnveldse Boys &quot;Heart of the Boys&quot; Fußballschalspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/VoetbalsjaalWarnveldseboys-5.png?v=1738586551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            99.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"> <span>„Wenn du schnell gehen willst, geh allein.<br> Wenn ihr weit kommen wollt, geht zusammen.“<meta charset="utf-8"> 💚🤍</span><br><br> <span>Dieser 108 cm x 15 cm große Spiegel ist jetzt für 20,00 € erhältlich</span>  <meta charset="utf-8">exkl. MwSt. des Erlöses geht an Warnveldse Boys!<br><br> <span>Clubliebe ist echt! Warnveldse Boys X Visser 🤝</span><br></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#Interieur</s:tag>
+    <s:tag>#Spiegel</s:tag>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>HomeDecor</s:tag>
+    <s:tag>InterieurDecor</s:tag>
+    <s:tag>InterieurDesign</s:tag>
+    <s:tag>kunst</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>SpiegelDecor</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:tag>Warnveldse boys</s:tag>
+    <s:tag>Woondecoratie</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10435581739339</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">99.95</s:price>
+      <s:sku/>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10291179323723</id>
+    <published>2024-10-30T16:01:31+01:00</published>
+    <updated>2024-10-30T16:01:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/voetbalspiegel"/>
+    <title>Fußballspiegel</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Voetbal_kunstspiegel-1.png?v=1730297810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span>„Für jeden Fußballfan“<meta charset="utf-8"> 🖤🤍</span><br><br> <span>Von nun an ist dies<meta charset="utf-8"> Kreisfußball mit 35 cm Durchmesser<img alt=""><img alt=""> Spiegel vorhanden!</span><br><br> <span>Fußballliebe ist echt! Visser ⚽</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10291179323723</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">69.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10210350465355</id>
+    <published>2024-10-30T15:54:09+01:00</published>
+    <updated>2024-10-30T15:54:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/sportclub-genemuiden-voetbalspiegel-de-trots-van-het-oosten"/>
+    <title>Sportverein Genemuiden Fußballspiegel „Der Stolz des Ostens“</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/SP-Genemuiden-1.png?v=1730297822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <meta charset="utf-8"><span>„Für Schwarz-Grün“<meta charset="utf-8"> 🖤<meta charset="utf-8"> 💚</span><br><br> <span>Von nun an ist dies<meta charset="utf-8"> 30 cm x 40 cm<img alt=""><img alt=""> Spiegel vorhanden,<meta charset="utf-8"> €20,-<meta charset="utf-8"> exkl. MwSt. des Erlöses geht an den SC Genemuiden!</span><br><br> <span>Vereinsliebe ist echt! SC Genemuiden X Visser 🤝</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10210350465355</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.sport-spiegels.nl/de/products/10080859095371</id>
+    <published>2024-09-13T13:38:37+02:00</published>
+    <updated>2024-09-13T13:38:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.sport-spiegels.nl/de/products/de-graafschap-voetbalspiegel-samen-dran"/>
+    <title>Der County Football Mirror „ZUSAMMEN D&apos;RAN“</title>
+    <s:type>Design Spiegel</s:type>
+    <s:vendor>Voetbalspiegels.nl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/7111/8155/files/Graafshap_afbeelding_2.png?v=1727077870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Anbieter: </strong>Voetbalspiegels.nl<br>
+        <strong>Art: </strong>Design Spiegel<br>
+        <strong>Preis: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span>„Für die Superfarmer“<meta charset="utf-8"> 💙<meta charset="utf-8"> 🤍</span><br> <br><span>Dieser 30cm x 40cm große Spiegel ist jetzt erhältlich,<meta charset="utf-8"> €20,-<meta charset="utf-8"> exkl. MwSt. des Erlöses geht an die Graafschap!</span><br><br> <span>Clubliebe ist echt! De Graafschap X Visser 🤝</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artwork</s:tag>
+    <s:tag>Glas</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Printed Mirror</s:tag>
+    <s:tag>Printwerk</s:tag>
+    <s:tag>Spiegels</s:tag>
+    <s:tag>Voetbalspiegel</s:tag>
+    <s:variant>
+      <id>https://www.sport-spiegels.nl/de/products/10080859095371</id>
+      <title>Spiegel 4mm</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku/>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
